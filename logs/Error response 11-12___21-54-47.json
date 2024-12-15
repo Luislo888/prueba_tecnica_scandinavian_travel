@@ -1,0 +1,9 @@
+{
+    "status": {
+        "error_code": "ERROR_HOSTED_PAGE_INVALID_CURRENCY",
+        "status": "ERROR",
+        "message": "The request attempted an operation that requires a currency, but the value was missing or not recognized. The request was rejected. Corrective action: Use the correct 3-letter ISO 4217 code for the currency in uppercase letters.",
+        "response_code": "ERROR_HOSTED_PAGE_INVALID_CURRENCY",
+        "operation_id": "d6d34109-1a98-490a-9d88-fccaa25601b5"
+    }
+}
