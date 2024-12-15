@@ -6,7 +6,7 @@ Descargar el proyecto desde https://github.com/Luislo888/prueba_tecnica_scandina
 
 En en este caso está desarrollado con Apache 2.4, PHP 7.4 y MySQL Sever 8.0 (MariaDB)
 
-En PHP tendremos que tener correctamente configurados los certificados, añadiendo las instrucciones en nuestro php.ini y alojando dicho archivo en la siguientes ruta:
+En PHP tendremos que tener correctamente configurados los certificados, añadiendo las instrucciones en nuestro php.ini y alojando dicho archivo en las siguientes ruta:
 
 openssl.cafile="C:/Apache24/cacert.pem"
 curl.cainfo="C:/Apache24/cacert.pem"
@@ -20,7 +20,7 @@ PHPiniDir "C:/php"
 
 - Configuración del proyecto
 
-Dentro del proyecto encontraremos archivos de configuración que tendremos que modificar para que se aducúen a nuestro entorno:
+Dentro del proyecto encontraremos archivos de configuración que tendremos que modificar para que se adecúen a nuestro entorno:
 
 /config/apiConfig.php
 ACCESS_KEY: Nuestra ACCESS_KEY
