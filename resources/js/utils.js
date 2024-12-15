@@ -1,7 +1,5 @@
 $(document).ready(function () {
 
-    // TODO Quitar los Console.logs
-
     // Rellenar Cookies en caso de error en el pago
 
     function getCookie(name) {
