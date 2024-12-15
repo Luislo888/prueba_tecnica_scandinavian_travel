@@ -1,7 +1,7 @@
 <div class="container mt-5 mb-5">
     <div class="text-center">
         <h2 class="fw-bold mb-2 ">Prueba de Development</h2>
-        <p class="text-secondary">Proceso de checkout integrado con Rapyd en su modo de test. La información colectada debe ser guardada en una base de datos.
+        <p class="text-secondary">Proceso de checkout integrado con Rapyd en su modo de test.<br> La información colectada debe ser guardada en una base de datos.
         </p>
     </div>
 
